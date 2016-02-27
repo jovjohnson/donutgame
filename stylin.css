@@ -1,0 +1,70 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+
+.container {
+	position: relative;
+}
+
+h2 {
+	color: red;
+}
+
+#title {
+	display: inline-block;
+}
+
+#selectors {
+	bottom: 0;
+	margin-top: 45px;
+}
+
+.donuts {
+	display: inline-block;
+	background-image: url('http://i.imgur.com/jC7AAbK.png?1');
+	background-size: 100%;
+	height: 50px;
+	width: 50px;
+}
+
+td {
+	height: 60px;
+	width: 60px;
+	background-color: #99C0C0;
+	border-radius: 3px;
+	text-align: center;
+}
+
+#donut-area {
+	display: inline-block;
+	margin-bottom: 50px;
+}
+
+.selected {
+	border: 1px solid gray;
+}
+
+.dead {
+	background-color: white;
+
+}
+
+#homer {
+	float: left;
+	height: 352px;
+	width: 200px;
+}
+
+.text {
+	background-color: black;
+}
+
+button {
+
+	border: 1px solid white;
+	border-radius: 4px;
+	background-color: black;
+	color: white;
+}
+
