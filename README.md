@@ -1,3 +1,3 @@
 # donutgame
 
-Get rid of all your numbers using your math skills.
+Get rid of all the numbers using your math skills.
